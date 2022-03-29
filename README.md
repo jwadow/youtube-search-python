@@ -1,6 +1,6 @@
 # [youtube-search-python](https://github.com/alexmercerind/youtube-search-python)
 
-##### Search for YouTube videos, channels & playlists. Get video & playlist information using link. Get search suggestions.
+##### Search for YouTube videos, channels, livestreams & playlists. Get video, livestream & playlist information using link. Get search suggestions.
 
 ##### Important: As of v1.6.1, we no longer use PyTube (see https://github.com/alexmercerind/youtube-search-python/pull/155). You have to install yt-dlp in order to use StreamURLFetcher: `pip install yt-dlp`
 
